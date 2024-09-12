@@ -8,11 +8,7 @@ body,
     margin: 0;
     box-sizing: border-box;
    /* background color: #RGB(255,0,0) */
-}
 
-
-li {
-    color: white 
 }
 .first{
     color: purple
